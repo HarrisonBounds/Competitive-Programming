@@ -1,3 +1,5 @@
+#Use a stack!!
+
 def isValid(self, s: str) -> bool:
         
         stack = []

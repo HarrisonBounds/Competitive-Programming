@@ -4,7 +4,7 @@
 #study backtracking algorithms
 
 
-def generateParenthesis(self, n: int) -> List[str]:
+def generateParenthesis(self, n: int):
         stack = []
         result = []
         
